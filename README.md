@@ -127,3 +127,7 @@ These functions are responsible for:
 - **`displayDataOnOLED()`**: Clears the OLED buffer, sets font sizes, positions data (SoC, voltage, temperature), and sends the buffer to the OLED display (`display.sendBuffer()`).
 - **`printReceivedValues()`**: Prints fetched data (voltage, current, SoC, etc.) to the Serial Monitor.
 
+### Output
+![image](https://github.com/KetanMe/Fteching-and-Displaying-the-BMS-Data-on-Oled-Display/assets/121623546/7dbbeb2c-d0c3-4475-921b-a6489b134fce)
+
+
